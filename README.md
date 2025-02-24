@@ -30,7 +30,15 @@ This is a simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
 2. Open the `index.html` file in your browser.
 
 ## Screenshots
-(Add screenshots here if available)
+
+### Game Start
+![Game Start](screenshots/game-start.png)
+
+### Game in Progress
+![Game in Progress](screenshots/game-progress.png)
+
+### Winning Screen
+![Winning Screen](screenshots/winning-screen.png)
 
 ## Live Demo
 (Provide a live demo link if deployed, e.g., GitHub Pages)
